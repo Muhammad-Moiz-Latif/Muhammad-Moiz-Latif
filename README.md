@@ -1,113 +1,270 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi,%20I'm%20Muhammad%20Moiz%20Latif!&fontSize=45&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20PERN%20Stack%20%7C%20CS%20Graduate&descAlignY=55&descAlign=50&animation=fadeIn" />
+<!-- ======================= HERO ======================= -->
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Specializing+in+React,+Node.js+%26+TypeScript;Building+Scalable+SaaS+%26+Real-Time+Apps;Turning+Bugs+into+Features;Actively+seeking+my+first+developer+role!" alt="Typing SVG" />
-  </a>
-</div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=230&section=header&text=Muhammad%20Moiz%20Latif&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20TypeScript&descAlignY=56&descSize=18&animation=fadeIn" width="100%" />
 
 <br/>
 
-### 👨‍💻 About Me
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+production-style+full-stack+applications;React+%2B+Node.js+%2B+TypeScript;Real-time+systems+%7C+SaaS+%7C+Modern+Web+Apps;I+build+it%2C+break+it%2C+refactor+it%2C+ship+it." alt="Typing SVG" />
+</a>
 
-- 🔭 Currently building **DevFlow**, a real-time collaborative project management SaaS (utilizing WebSockets and role-based access control), and **Lessonix**, an AI-powered interactive learning platform.
-- 🌱 Deepening my knowledge in scalable architectures, containerization (**Docker**), and in-memory data stores (**Redis**).
-- 🎓 CS Graduate — COMSATS University Islamabad (Class of 2026).
-- 💬 Ask me about: React architecture, auth flows (JWT / OAuth), Prisma/Drizzle ORM quirks, or setting up full-stack containerized environments.
-- ⚡ Fun fact: Every one of my projects started as "let me just fix this one bug real quick."
+<br/><br/>
 
----
+<a href="https://github.com/Muhammad-Moiz-Latif">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/moiz-latif-872414253/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://axion-two-beige.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-### 🌐 Let's Connect
+<br/><br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/moiz-latif-872414253/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://axion-two-beige.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Moiz-Latif&label=PROFILE+VIEWS&color=238636&style=for-the-badge" />
+
 </div>
 
 ---
 
-### 🛠️ Technical Arsenal
+<!-- ======================= ABOUT ======================= -->
 
-**Frontend Development**  
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+## 👨‍💻 About Me
+
+I'm **Muhammad Moiz Latif**, a Computer Science graduate from **COMSATS University Islamabad** focused on building modern, scalable web applications.
+
+I enjoy going beyond simply making an application "work" — I care about **architecture, performance, user experience, maintainability, and how the pieces fit together**.
+
+Currently focused on:
+
+- ⚛️ Building modern interfaces with **React & Next.js**
+- 🟢 Designing APIs and backend systems with **Node.js & Express**
+- 🔷 Writing maintainable applications with **TypeScript**
+- ⚡ Building real-time features using **WebSockets / Socket.io**
+- 🗄️ Working with **PostgreSQL, MongoDB & Redis**
+- 🐳 Containerizing applications with **Docker**
+- 🏗️ Learning more about scalable architecture and distributed systems
+
+> **I don't just want to build projects. I want to understand why they work.**
+
+---
+
+<!-- ======================= WHAT I BUILD ======================= -->
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ Full-Stack Applications
+
+Production-style applications with real authentication, authorization, validation, state management and API architecture.
+
+</td>
+
+<td width="50%">
+
+### 🔄 Real-Time Systems
+
+Collaborative experiences using WebSockets, Socket.io, Redis and event-driven architecture.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧩 SaaS Platforms
+
+Multi-user applications with workspaces, roles, permissions, dashboards and complex application state.
+
+</td>
+
+<td width="50%">
+
+### 🎨 Modern Frontends
+
+Responsive interfaces focused on clean component architecture, accessibility, animation and performance.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux" />
 </p>
 
-**Backend & Databases**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis" />
 </p>
 
-**ORMs & Tools**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,vercel" />
+</p>
+
+### Libraries & Platforms
+
+<p>
+
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+
 </p>
 
 ---
 
-### 📌 Featured Projects
+<!-- ======================= FEATURED PROJECTS ======================= -->
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 📋 **[DevFlow](https://github.com/Muhammad-Moiz-Latif/DevFlow)** | Real-time collaborative project management tool (Linear/Jira clone). Features live cursors, workspace kanban boards, and RBAC. | React · Node.js · Socket.io · Redis |
-| 🎓 **Lessonix** *(WIP)* | AI-powered interactive learning platform designed to dynamically adapt to student workflows. Final year academic project. | MERN Stack · TypeScript |
-| 🛒 **[Gizmo](https://github.com/Muhammad-Moiz-Latif/Gizmo)** | Full-stack e-commerce marketplace with secure checkout, persistent cart/wishlist, and a comprehensive admin console. | PERN · Prisma · Stripe · Cloudinary |
-| 📝 **[PostVault](https://github.com/Muhammad-Moiz-Latif/postvault)** | Containerized social publishing platform with full CRUD operations, nested comments, likes, and follow architecture. | React · Express · Drizzle ORM · Docker |
-| 🎬 **[Movielyzer](https://github.com/Muhammad-Moiz-Latif/movielyzer)** | AI-powered video search frontend utilizing a highly interactive, motion-driven UI. | React · TypeScript · Framer Motion |
+# ⭐ Featured Projects
 
----
+## 01 — DevFlow
 
-### 📊 GitHub Analytics
+<a href="https://github.com/Muhammad-Moiz-Latif/DevFlow">
+<img src="https://opengraph.githubassets.com/1/Muhammad-Moiz-Latif/DevFlow" width="100%" />
+</a>
 
-<div align="center">
-  <!-- GitHub Trophies for extra flair -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Moiz-Latif&theme=gitdimmed&row=1&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
-  </a>
-</div>
+**Real-time collaborative project management SaaS**
 
-<br/>
+A project-management platform inspired by tools such as Linear and Jira.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Moiz-Latif&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Moiz-Latif&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="48%" />
-</div>
+**Highlights**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Moiz-Latif&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff" width="100%" />
-</div>
+- 🔐 Role-based access control
+- 🏢 Workspace & project management
+- 📋 Real-time Kanban boards
+- 🔄 Live updates through WebSockets
+- 🧲 Drag & drop interactions
+- ⚡ Redis-backed infrastructure
+- 🐳 Dockerized deployment
+- 📡 Real-time collaborative architecture
 
-<br/>
+`React` `Node.js` `TypeScript` `Socket.io` `Redis` `Docker`
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/Muhammad-Moiz-Latif" alt="Contribution Graph" width="100%"/>
-</div>
+[View Repository →](https://github.com/Muhammad-Moiz-Latif/DevFlow)
 
 ---
 
-<div align="center">
-  💡 <i>Turning bugs into features, one commit at a time.</i> <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Moiz-Latif&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
-</div>
+## 02 — Gizmo
+
+<a href="https://github.com/Muhammad-Moiz-Latif/Gizmo">
+<img src="https://opengraph.githubassets.com/1/Muhammad-Moiz-Latif/Gizmo" width="100%" />
+</a>
+
+**Full-stack e-commerce platform**
+
+A complete marketplace application built around real-world commerce workflows.
+
+**Highlights**
+
+- 🛒 Persistent cart & wishlist
+- 💳 Stripe checkout
+- 🔐 Authentication & Google OAuth
+- 👨‍💼 Admin dashboard
+- 🖼️ Cloudinary image management
+- 🧠 Redux Toolkit state management
+- ✅ Zod validation
+- 📱 Responsive UI
+
+`React` `Node.js` `PostgreSQL` `Prisma` `Stripe` `Redux Toolkit`
+
+[View Repository →](https://github.com/Muhammad-Moiz-Latif/Gizmo)
+
+---
+
+## 03 — PostVault
+
+<a href="https://github.com/Muhammad-Moiz-Latif/postvault">
+<img src="https://opengraph.githubassets.com/1/Muhammad-Moiz-Latif/postvault" width="100%" />
+</a>
+
+**Full-stack social publishing platform**
+
+A Medium-meets-social-network style application built with a production-oriented backend.
+
+**Highlights**
+
+- 🔑 JWT authentication
+- 🔄 Refresh token rotation
+- 🔵 Google OAuth
+- ✉️ Email verification
+- 🔐 Password reset
+- 🚦 Redis-backed rate limiting
+- ⚡ Optimistic UI updates
+- 🐳 Multi-stage Docker builds
+- ☁️ Cloudinary uploads
+
+`React` `TypeScript` `Express` `PostgreSQL` `Drizzle` `Redis` `Docker`
+
+[View Repository →](https://github.com/Muhammad-Moiz-Latif/postvault)
+
+---
+
+## 04 — Movielyzer
+
+<a href="https://github.com/Muhammad-Moiz-Latif/movielyzer">
+<img src="https://opengraph.githubassets.com/1/Muhammad-Moiz-Latif/movielyzer" width="100%" />
+</a>
+
+**AI-powered video search experience**
+
+An interactive frontend focused on motion, responsiveness and modern UI patterns.
+
+`React` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+[View Repository →](https://github.com/Muhammad-Moiz-Latif/movielyzer)
+
+---
+
+<!-- ======================= OTHER WORK ======================= -->
+
+## 🧪 Other Work
+
+| Project | What I Built |
+|---|---|
+| 🎓 **Lessonix** | AI-powered interactive learning platform |
+| 📊 **Axion** | Data-driven fitness dashboard using Next.js |
+| 💰 **CashTrack** | MERN-based personal finance tracker |
+| 🍕 **Pizza Queue** | Priority-based queue management system |
+| 🏥 **Hospital Queue** | Heap-based priority scheduling system |
+
+---
+
+<!-- ======================= ENGINEERING ======================= -->
+
+## 🧠 Engineering Interests
+
+```text
+Frontend Architecture
+        ↓
+React / Next.js / TypeScript
+        ↓
+API Design & Authentication
+        ↓
+Node.js / Express
+        ↓
+PostgreSQL / MongoDB
+        ↓
+Redis / WebSockets
+        ↓
+Docker / Cloud Infrastructure
+        ↓
+Scalable Systems
