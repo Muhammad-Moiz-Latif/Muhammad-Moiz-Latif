@@ -16,7 +16,7 @@
 <a href="https://github.com/Muhammad-Moiz-Latif">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
-<a href="https://www.linkedin.com/in/moizlatif">
+<a href="https://www.linkedin.com/in/moiz-latif-872414253">
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
 <a href="mailto:moizlatif4137@gmail.com">
